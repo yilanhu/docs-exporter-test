@@ -1,0 +1,221 @@
+### YamlMime:NetNamespace
+classes:
+- uid: Accessibility.CAccPropServicesClass
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+enums:
+- uid: Accessibility.AnnoScope
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+interfaces:
+- uid: Accessibility.CAccPropServices
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+- uid: Accessibility.IAccessible
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-1.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+- uid: Accessibility.IAccessibleHandler
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-1.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+- uid: Accessibility.IAccIdentity
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+- uid: Accessibility.IAccPropServer
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+- uid: Accessibility.IAccPropServices
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+structs:
+- uid: Accessibility.__MIDL_IWinTypes_0009
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+- uid: Accessibility._RemotableHandle
+  monikers:
+  - netcore-3.0
+  - netcore-3.1
+  - netframework-2.0
+  - netframework-3.0
+  - netframework-3.5
+  - netframework-4.0
+  - netframework-4.5
+  - netframework-4.5.1
+  - netframework-4.5.2
+  - netframework-4.6
+  - netframework-4.6.1
+  - netframework-4.6.2
+  - netframework-4.7
+  - netframework-4.7.1
+  - netframework-4.7.2
+  - netframework-4.8
+uid: Accessibility
+commentId: N:Accessibility
+name: Accessibility
+fullName: Accessibility
+devLangs:
+- csharp
+monikers:
+- netcore-3.0
+- netcore-3.1
+- netframework-1.1
+- netframework-2.0
+- netframework-3.0
+- netframework-3.5
+- netframework-4.0
+- netframework-4.5
+- netframework-4.5.1
+- netframework-4.5.2
+- netframework-4.6
+- netframework-4.6.1
+- netframework-4.6.2
+- netframework-4.7
+- netframework-4.7.1
+- netframework-4.7.2
+- netframework-4.8
+summary: The <xref data-throw-if-not-resolved="true" uid="Accessibility"></xref> namespace and all of its exposed members are part of a managed wrapper for the Component Object Model (COM) accessibility interface.
+remarks: For more information about <xref:Accessibility>, see the [Microsoft Active Accessibility](/windows/win32/winauto/microsoft-active-accessibility) documentation.
+metadata:
+  content_git_url: https://github.com/OPS-E2E-PPE/dotnet-api-docs/blob/master/xml/ns-Accessibility.xml
+  _op_overwriteFileGitUrl: https://github.com/OPS-E2E-PPE/dotnet-api-docs/blob/master/xml/ns-Accessibility.xml
+  original_ref_skeleton_git_url: https://github.com/OPS-E2E-PPE/dotnet-api-docs/blob/master/xml/ns-Accessibility.xml
+  f1_keywords:
+  - Accessibility
+  helpviewer_keywords:
+  - Accessibility namespace [.NET]
