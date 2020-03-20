@@ -22,6 +22,7 @@
       },
       {
         "files": ["separate-versioning/*.yml"],
+        "group": "azure-python",
         "version": "azurebatch-6.1.0"
       }
     ],
@@ -50,7 +51,8 @@
     },
     "versions": {
       "azure-python": {
-        "dest": "azure-python"
+        "dest": "azure-python",
+        "moniker_range": "azurebatch-6.1.0"
       }
     },
     "fileMetadata": {},
