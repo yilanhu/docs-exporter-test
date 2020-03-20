@@ -16,8 +16,13 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices.md"
+          "ThirdPartyNotices.md",
+          "separate-versioning"
         ]
+      },
+      {
+        "files": ["separate-versioning/*.yml"],
+        "version": "azure-python"
       }
     ],
     "resource": [
@@ -42,6 +47,11 @@
       "breadcrumb_path": "/docs-exporter-test/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None"
+    },
+    "versions": {
+      "azure-python": {
+        "dest": "azure-python"
+      }
     },
     "fileMetadata": {},
     "template": [],
