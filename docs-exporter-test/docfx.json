@@ -22,7 +22,7 @@
       },
       {
         "files": ["separate-versioning/*.yml"],
-        "version": "azure-python"
+        "version": "azurebatch-6.1.0"
       }
     ],
     "resource": [
