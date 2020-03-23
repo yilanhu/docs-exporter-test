@@ -5,6 +5,32 @@
       "build_source_folder": "docs-exporter-test",
       "build_output_subfolder": "docs-exporter-test",
       "locale": "en-us",
+      "monikers": [
+        "azurebatch-6.1.0"
+      ],
+      "moniker_ranges": [
+        "azuresqldb-current || azuresqldb-mi-current || azure-sqldw-latest || >= aps-pdw-2016 || >= sql-server-2016 || >= sql-server-linux-2017 || sql-server-previousversions || sqlallproducts-allversions"
+      ],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "UniversalReference": "Content",
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "NetEnum": "Content",
+        "NetDelegate": "Content",
+        "NetNamespace": "Content",
+        "NetMember": "Content",
+        "NetType": "Content",
+        "Tutorial": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "docs-exporter-test-ranged-versioning",
+      "build_source_folder": "docs-exporter-test-ranged-versioning",
+      "build_output_subfolder": "docs-exporter-test-ranged-versioning",
+      "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
@@ -30,8 +56,5 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "docs_build_engine": {
-    "name": "docfx_v3"
-  }
+  "need_generate_pdf_url_template": false
 }
