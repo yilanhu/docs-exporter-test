@@ -17,13 +17,18 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md",
-          "separate-versioning"
+          "separate-versioning",
+          "ranged-versioning"
         ]
       },
       {
         "files": ["separate-versioning/*.yml"],
         "group": "azure-python",
         "version": "azurebatch-6.1.0"
+      },
+      {
+        "files": ["ranged-versioning/*.md"],
+        "group": "gr-sql-2016-a",
       }
     ],
     "resource": [
@@ -53,6 +58,10 @@
       "azure-python": {
         "dest": "azure-python",
         "moniker_range": "azurebatch-6.1.0"
+      },
+      "gr-sql-2016-a": {
+        "moniker_range": "azuresqldb-current || azuresqldb-mi-current || azure-sqldw-latest || >= aps-pdw-2016 || >= sql-server-2016 || >= sql-server-linux-2017 || sql-server-previousversions || sqlallproducts-allversions",
+        "dest": "temp2016a"
       }
     },
     "fileMetadata": {},
