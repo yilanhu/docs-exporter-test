@@ -39,6 +39,20 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
+    },
+    {
+      "docset_name": "docs-exporter-test-ussec-exclusive",
+      "build_source_folder": "docs-exporter-test-ussec-exclusive",
+      "build_output_subfolder": "docs-exporter-test-ussec-exclusive",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
