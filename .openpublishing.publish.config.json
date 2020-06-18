@@ -8,9 +8,7 @@
       "monikers": [
         "azurebatch-6.1.0"
       ],
-      "moniker_ranges": [
-        "azuresqldb-current || azuresqldb-mi-current || azure-sqldw-latest || >= aps-pdw-2016 || >= sql-server-2016 || >= sql-server-linux-2017 || sql-server-previousversions || sqlallproducts-allversions"
-      ],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "UniversalReference": "Content",
@@ -30,6 +28,22 @@
       "docset_name": "docs-exporter-test-ranged-versioning",
       "build_source_folder": "docs-exporter-test-ranged-versioning",
       "build_output_subfolder": "docs-exporter-test-ranged-versioning",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [
+        "azuresqldb-current || azuresqldb-mi-current || azure-sqldw-latest || >= aps-pdw-2016 || >= sql-server-2016 || >= sql-server-linux-2017 || sql-server-previousversions || sqlallproducts-allversions"
+      ],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "docs-exporter-test-ussec-exclusive",
+      "build_source_folder": "docs-exporter-test-ussec-exclusive",
+      "build_output_subfolder": "docs-exporter-test-ussec-exclusive",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
