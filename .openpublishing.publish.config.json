@@ -67,20 +67,6 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
-    },
-    {
-      "docset_name": "MSDN.test.docs-test-ussec-unactive",
-      "build_source_folder": "test.docs-test-ussec-unactive",
-      "build_output_subfolder": "MSDN.test.docs-test-ussec-unactive",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
